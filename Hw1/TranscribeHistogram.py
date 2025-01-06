@@ -1,5 +1,4 @@
-# Lian Natour, 207300443
-# Mohammad Mhneha, 315649814
+
 
 # Please replace the above comments with your names and ID numbers in the same format.
 
